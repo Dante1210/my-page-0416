@@ -56,3 +56,4 @@ plugins:
 webrick:
   headers:
     Cache-Control: public, max-age=110
+    testH: testH-content  
